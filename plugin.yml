@@ -1,0 +1,7 @@
+name: GrowEvent
+version: 1.0.0
+api: 3.0.0
+main: GrowEvent\Loader
+description: A plugin which adds the StructureGrowEvent to PocketMine-MP
+authors:
+  - Kevims
